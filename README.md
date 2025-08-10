@@ -1,4 +1,3 @@
-# first-repo
-#f u
+# first-repository
 this is the first repo of my life
 lol
